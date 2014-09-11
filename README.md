@@ -3,6 +3,10 @@ Shuttle
 
 Whenever INSEE (French national institute of statistics) performs the french census, the application form asks us **where we live** and **where we work**. This [graph](http://www.goo.gl/ituNMK) corresponds to the representation of 200,000 *links* (or *edges*) between "home" and "work" (36,000 cities or *nodes*). More than 2,000,000 are possible (see source files).
 
+And because people ask: why is Paris red/orange; because of [Eigenvector Centrality](https://wiki.gephi.org/index.php/Eigenvector_Centrality), a measure of node importance in a network based on a node's connections :-)
+
+No scientific value, just a bit of color.
+
 ### A bigger 'Shuttle'
 
 If you have a computer powerful enough to model something like 2,000,0000 links (and 36,000 nodes): feel free to fork this GitHub project: I'd love to see what it looks like (my old mac is f-word slow). Feel free to contact me by email.
