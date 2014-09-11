@@ -1,7 +1,7 @@
 Shuttle
 =======
 
-Whenever INSEE (French national institute of statistics) performs the french census, the application form asks us **where we live** and **where we work**. This [graph](www.goo.gl/ituNMK) corresponds to the representation of 200,000 *links* (or *edges*) between "home" and "work" (36,000 cities or *nodes*). More than 2,000,000 are possible (see source files).
+Whenever INSEE (French national institute of statistics) performs the french census, the application form asks us **where we live** and **where we work**. This [graph](http://www.goo.gl/ituNMK) corresponds to the representation of 200,000 *links* (or *edges*) between "home" and "work" (36,000 cities or *nodes*). More than 2,000,000 are possible (see source files).
 
 ### A bigger 'Shuttle'
 
@@ -9,10 +9,10 @@ If you have a computer powerful enough to model something like 2,000,0000 links 
 
 ###Data sources & tools
 
-- Institut national de la statistique et des études économiques, [Base sur les flux de mobilité : mobilités professionnelles](www.goo.gl/YoF143), 2011.
-- Institut national de l'information géographique et forestière, [Répertoire Géographique des Communes](www.goo.gl/63DWHx), 2013.
-- Gephi, [The Open Graph Viz Platform](www.gephi.github.io).
-- Institut national de l'information géographique et forestière, [Circé](www.goo.gl/zChsgU), To convert a coordinate system to another.
+- Institut national de la statistique et des études économiques, [Base sur les flux de mobilité : mobilités professionnelles](http://www.goo.gl/YoF143), 2011.
+- Institut national de l'information géographique et forestière, [Répertoire Géographique des Communes](http://www.goo.gl/63DWHx), 2013.
+- Gephi, [The Open Graph Viz Platform](http://www.gephi.github.io).
+- Institut national de l'information géographique et forestière, [Circé](http://www.goo.gl/zChsgU), To convert a coordinate system to another.
 
 Licence
 =======
