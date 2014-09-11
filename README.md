@@ -17,6 +17,6 @@ If you have a computer powerful enough to model something like 2,000,0000 links 
 
 Licence
 =======
-Attribution-NonCommercial-ShareAlike 4.0 International, [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Creative Commons, [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 More than the license, I will be happy to know if you use this "map" or the source files in any way. Feel free to contact me by email.
