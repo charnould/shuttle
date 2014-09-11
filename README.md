@@ -11,8 +11,9 @@ If you have a computer powerful enough to model something like 2,000,0000 links 
 
 - Institut national de la statistique et des études économiques, [Base sur les flux de mobilité : mobilités professionnelles](http://www.goo.gl/YoF143), 2011.
 - Institut national de l'information géographique et forestière, [Répertoire Géographique des Communes](http://www.goo.gl/63DWHx), 2013.
-- Gephi, [The Open Graph Viz Platform](http://gephi.github.io).
 - Institut national de l'information géographique et forestière, [Circé](http://www.goo.gl/zChsgU), To convert a coordinate system to another.
+- Gephi, [The Open Graph Viz Platform](http://gephi.github.io).
+
 
 Licence
 =======
