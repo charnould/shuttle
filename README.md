@@ -7,7 +7,7 @@ And because people ask: why is Paris red/orange? Because of [Eigenvector Central
 
 ### A bigger 'Shuttle'
 
-If you have a computer powerful enough to model something like 2,000,0000 edges (and 36,000 nodes): feel free to fork this GitHub project: I'd love to see what it looks like (my old mac is f-word+ing slow). Feel free to contact me by email.
+If you have a computer powerful enough to model something like 2,000,0000 edges (and 36,000 nodes), feel free to fork this GitHub project: I'd love to see what it looks like (my old mac is f-word+ing slow). Feel free to contact me by email.
 
 ###Data sources & tools
 
